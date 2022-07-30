@@ -19,7 +19,7 @@
 	</header> -->
 	<main>
 		<div class="containerWrapper">
-			<Route path="/home">
+			<Route path="/">
 				<Home/>
 			</Route>
 			<Footer/>
